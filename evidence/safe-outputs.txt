@@ -1,0 +1,2 @@
+Privacy-safe terminal outputs and verification notes for The Digital Detective assignment.
+All personal usernames, hostnames, serial numbers, and local IP addresses have been redacted.
