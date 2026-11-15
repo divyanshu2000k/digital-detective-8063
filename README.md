@@ -16,3 +16,8 @@ An exploration of computer fundamentals, command-line operations, operating syst
 * [Mission 8 - Final Report](./mission-08-final-report/README.md)
 
 > **Note:** Each mission is completed, documented, and committed separately in sequence. No personal credentials, tokens, or private network details are stored in this repository.
+
+## My Learning
+* **Command-Line & OS Fundamentals:** Learned how Unix-like operating systems manage processes (via PIDs), file permissions (`rwx`), and standard input/output streams using pipes (`|`).
+* **Data Representation:** Practiced converting values manually between decimal, binary, and hexadecimal and automating conversions in Python.
+* **Version Control Workflow:** Used atomic commits, feature branches (`update-about`), and Pull Requests to keep changes structured and reviewable.
